@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/react-dice-game-app/static/css/main.5d21ed48.chunk.css",
+    "main.js": "/react-dice-game-app/static/js/main.876dd20a.chunk.js",
+    "main.js.map": "/react-dice-game-app/static/js/main.876dd20a.chunk.js.map",
+    "runtime-main.js": "/react-dice-game-app/static/js/runtime-main.a9c1fca0.js",
+    "runtime-main.js.map": "/react-dice-game-app/static/js/runtime-main.a9c1fca0.js.map",
+    "static/js/2.fdf9e852.chunk.js": "/react-dice-game-app/static/js/2.fdf9e852.chunk.js",
+    "static/js/2.fdf9e852.chunk.js.map": "/react-dice-game-app/static/js/2.fdf9e852.chunk.js.map",
+    "static/js/3.5a3d8fe6.chunk.js": "/react-dice-game-app/static/js/3.5a3d8fe6.chunk.js",
+    "static/js/3.5a3d8fe6.chunk.js.map": "/react-dice-game-app/static/js/3.5a3d8fe6.chunk.js.map",
+    "index.html": "/react-dice-game-app/index.html",
+    "static/css/main.5d21ed48.chunk.css.map": "/react-dice-game-app/static/css/main.5d21ed48.chunk.css.map",
+    "static/js/2.fdf9e852.chunk.js.LICENSE.txt": "/react-dice-game-app/static/js/2.fdf9e852.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a9c1fca0.js",
+    "static/js/2.fdf9e852.chunk.js",
+    "static/css/main.5d21ed48.chunk.css",
+    "static/js/main.876dd20a.chunk.js"
+  ]
+}
