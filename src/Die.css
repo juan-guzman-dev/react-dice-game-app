@@ -1,0 +1,30 @@
+.Die {
+  background-color: seagreen;
+  border-radius: 0%;
+  color: white;
+  display: inline-block;
+  width: 3em;
+  height: 2.25em;
+  padding-top: 0.75em;
+  text-align: center;
+  margin-right: 0.5em;
+  font-weight: bold;
+  font-size: 1.5em;
+}
+
+.highScore {
+  width: 200px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  background-color: black;
+  font-family: 'PT Sans', sans-serif;
+  font-size: 20px;
+  color: white;
+  padding: 5px 5px 5px 5px;
+  outline-style: solid;
+  outline-color: white;
+  outline-width: 10px;
+  text-align: center;
+  border: 1px solid silver
+}
